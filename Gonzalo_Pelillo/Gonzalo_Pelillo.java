@@ -23,6 +23,7 @@ public class Rectangulo {
             for(int j=0;j<base;j++){
                 System.out.print("*");}
         System.out.println("");}
+        System.out.println("fichero modificado");
         
         
         
